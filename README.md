@@ -17,4 +17,4 @@ My goal: Learn C, complete 1337 C00-C02 exercises, build projects, and share my 
 
 ## Contact
 - Email: younesadnane1337@gmail.com
-- GitHub: [github.com/CNOS](https://github.com/YOUNES-ADNANE)
+- GitHub: [github.com/YOUNES-ADNANE](https://github.com/YOUNES-ADNANE)
