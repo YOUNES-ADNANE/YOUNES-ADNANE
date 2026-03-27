@@ -1,27 +1,20 @@
-## Hi there 👋
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+# Hi there 👋 I'm YOUNES ADNANE
 
-class AspiringProgrammer:
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=CNOS.CNOS)
 
-    def __init__(self):
-        # Personal information
-        self.name = "CNOS"
-        self.birth_year = 2008
-        self.country = "Morocco"
-        self.role = "Aspiring Software Developer"
-        self.languages_spoken = ["Arabic", "French", "English"]
-        # Goal
-        self.goal = "Learn C, complete 1337 C00-C02 exercises, build projects, and share my learning journey on GitHub."
+## About Me
+I'm an aspiring software developer from Morocco, born in 2009.  
+I speak Arabic, and English.  
+My goal: Learn C, complete 1337 C00-C02 exercises, build projects, and share my learning journey on GitHub.
 
-    def introduce_myself(self):
-        print(f"Hi! My name is {self.name}.")
-        print(f"I was born in {self.birth_year} in {self.country}.")
-        print(f"I am an {self.role}.")
-        print(f"I speak: {', '.join(self.languages_spoken)}.")
-        print(f"My goal: {self.goal}")
-        print("Thanks for visiting my GitHub profile! I hope you find my projects interesting.")
+## Skills
+- Languages: C, Python
+- Tools: Git, GitHub
 
-# Create an object and run the introduction
-me = AspiringProgrammer()
-me.introduce_myself()
+## Projects
+- **c00-exercises** - Solutions for C00 exercises  
+- **mini-projects** - Small projects to practice coding
+
+## Contact
+- Email: your-email@example.com
+- GitHub: [github.com/CNOS](https://github.com/CNOS)
