@@ -1,4 +1,7 @@
 ## Hi there 👋
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 class AspiringProgrammer:
 
     def __init__(self):
