@@ -19,7 +19,7 @@ I'm currently preparing to join **1337 Coding School** and building my programmi
 
 * Become a student at 1337 Coding School
 * Master the C programming language
-* Complete all core projects (C00 → C09 & SHELL00 → SHELL01)
+* Complete all core projects (C00 → C09 & shell_00 → shell_01)
 * Build real-world projects and share my journey on GitHub
 
 ---
@@ -49,8 +49,8 @@ I'm currently preparing to join **1337 Coding School** and building my programmi
 
 #### 🐚 Shell Projects
 
-* SHELL00 ⏳
-* SHELL01 ⏳
+* shell_00 ⏳
+* shell_01 ⏳
 
 ---
 
@@ -81,6 +81,7 @@ Consistency is my main focus.
 
 * Email: [younesadnane1337@gmail.com](mailto:younesadnane1337@gmail.com)
 * GitHub: https://github.com/YOUNES-ADNANE
+* linkedin: www.linkedin.com/in/younes-adnane1337
 
 ---
 
