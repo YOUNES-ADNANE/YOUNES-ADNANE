@@ -1,6 +1,6 @@
 # Hi there 👋 I'm YOUNES ADNANE
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUNES-ADNANE.YOUNES-ADNANE)
+![visitors]()
 ![Learning](https://img.shields.io/badge/Learning-C-blue)
 ![Goal](https://img.shields.io/badge/1337-Future%20Student-success)
 
