@@ -2,7 +2,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUNES-ADNANE.YOUNES-ADNANE)
 ![Learning](https://img.shields.io/badge/Learning-C-blue)
-> **Current Status:** 🟠 `Level 2: Arrays & Logic` (Learning in Progress)
 ![Goal](https://img.shields.io/badge/1337-Future%20Student-success)
 
 ---
