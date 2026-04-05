@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUNES-ADNANE.YOUNES-ADNANE)
 ![Learning](https://img.shields.io/badge/Learning-C-blue)
+![Status](https://shields.io)
 ![Goal](https://img.shields.io/badge/1337-Future%20Student-success)
 
 ---
@@ -9,80 +10,61 @@
 ## 🚀 About Me
 
 I'm an aspiring software developer from Morocco 🇲🇦, born in 2009.
-I speak Arabic and English.
-
-I'm currently preparing to join **1337 Coding School** and building my programming skills step by step.
+I'm currently a dedicated student mastering **Low-Level Programming** to join **1337 Coding School**.
 
 ---
 
-## 🎯 My Goal
+## 🎯 My Progress & Roadmap
 
-* Become a student at 1337 Coding School
-* Master the C programming language
-* Complete all core projects (C00 → C09 & shell_00 → shell_01)
-* Build real-world projects and share my journey on GitHub
+### ✅ Level 1: Foundations (Completed)
+*   **Status:** 100% Finished [View Repo](https://github.com)
+*   **Skills:** `printf`, `scanf`, `Variables`, `If/Else`, `Loops` (while, for, do-while), `Functions`, and basic `String` comparison.
+*   **Final Project:** Logic-based **Password Checker App**.
 
----
-
-## 📚 My Learning Roadmap
-
-### 🟢 Phase 1: Foundations
-
-* Learn basic C (printf, variables, loops, conditions)
-* Understand how programs work
-
-### 🟡 Phase 2: 1337 Preparation
-
-* Start using `write` instead of `printf`
-* Practice functions and logic building
+### 🔄 Level 2: Advanced Data Handling (Current)
+*   **Focus:** Mastering **Arrays** & Memory Structure.
+*   **Topics:** 1D & 2D Arrays, Searching Algorithms, Matrix Operations, and String Manipulation.
+*   **Goal:** Moving towards **Pointers** and **Memory Management**.
 
 ---
 
-### 🔥 1337 Projects Journey
+## 🔥 1337 Journey (Piscine Preparation)
 
-#### 💻 C Projects
+My goal is to complete the core curriculum structure used in the Piscine:
 
-* C00 ✅ (Basics, write, loops, functions)
-* C01 🔄 (Pointers)
-* C02 🔄 (Strings & arrays)
-* C03 → C09 ⏳ (Advanced concepts)
+#### 💻 C Modules
+*   **C00** ✅ (Basics, write, loops, functions)
+*   **C01** 🔄 (Pointers & Memory - *Next Step*)
+*   **C02** 🔄 (Strings & Arrays - *In Progress*)
+*   **C03 → C09** ⏳ (Advanced Logic)
 
-#### 🐚 Shell Projects
-
-* shell_00 ⏳
-* shell_01 ⏳
-
----
-
-## 🛠️ Skills
-
-* **Languages:** C, Python
-* **Tools:** Git, GitHub
-* **Currently Learning:** Low-level programming & problem solving
+#### 🐚 Shell Modules
+*   **shell_00** ⏳
+*   **shell_01** ⏳
 
 ---
 
-## 📂 Projects
+## 🛠️ Skills & Tools
 
-* **c00-exercises** → My solutions for C00
-* **c01-c02 (coming soon)**
-* **mini-projects** → Practice projects
-
----
-
-## 📈 My Progress
-
-I am documenting my journey step by step and improving every day 💪
-Consistency is my main focus.
+*   **Languages:** C (Primary), Python
+*   **Tools:** Git, GitHub, VS Code, Git Bash (CLI Expert)
+*   **Systems:** Linux Environment (Basics)
 
 ---
 
-## 📫 Contact
+## 📂 Featured Repositories
 
-* Email: [younesadnane1337@gmail.com](mailto:younesadnane1337@gmail.com)
-* GitHub: https://github.com/YOUNES-ADNANE
-* linkedin: www.linkedin.com/in/younes-adnane1337
+*   [**c-learning (Level 1)**](https://github.com) → Fundamentals from 0 to 1.
+*   [**C-Mastery-Level-2**](https://github.com) → Arrays, Matrices, and Advanced Logic.
 
 ---
 
-⭐ *Thanks for visiting my profile! Follow my journey to 1337 🚀*
+## 📈 Consistency is Key
+I document every exercise I solve. Following the "Learn, Build, Document" methodology.
+
+## 📫 Connect with me
+*   📧 [younesadnane1337@gmail.com](mailto:younesadnane1337@gmail.com)
+*   🔗 [LinkedIn](https://linkedin.com)
+
+---
+⭐ *Thanks for visiting! Follow my journey to 1337 🚀*
