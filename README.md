@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUNES-ADNANE.YOUNES-ADNANE)
 ![Learning](https://img.shields.io/badge/Learning-C-blue)
-![Status](https://shields.io)
+<img src="https://shields.io" alt="Status">
 ![Goal](https://img.shields.io/badge/1337-Future%20Student-success)
 
 ---
