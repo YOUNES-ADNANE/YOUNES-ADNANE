@@ -66,4 +66,4 @@ I document every exercise I solve. Following the "Learn, Build, Document" method
 *   🔗 [LinkedIn](https://linkedin.com)
 
 ---
-⭐ *Thanks for visiting! Follow my journey to 1337 🚀* 
+⭐ *Thanks for visiting! Follow my journey to 1337🚀* 
