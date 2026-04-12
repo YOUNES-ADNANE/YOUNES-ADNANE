@@ -3,67 +3,66 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUNES-ADNANE.YOUNES-ADNANE)
 ![Learning](https://img.shields.io/badge/Learning-C-blue)
 ![Goal](https://img.shields.io/badge/1337-Future%20Student-success)
+![Status](https://shields.io)
 
 ---
 
 ## 🚀 About Me
 
 I'm an aspiring software developer from Morocco 🇲🇦, born in 2009.
-I'm currently a dedicated student mastering **Low-Level Programming** to join **1337 Coding School**.
+I'm currently a dedicated student mastering **Low-Level Programming** with a clear goal: Joining **1337 Coding School (42 Network)**.
 
 ---
 
 ## 🎯 My Progress & Roadmap
 
 ### ✅ Level 1: Foundations (Completed)
-*   **Status:** 100% Finished [View Repo](https://github.com)
-*   **Skills:** `printf`, `scanf`, `Variables`, `If/Else`, `Loops` (while, for, do-while), `Functions`, and basic `String` comparison.
-*   **Final Project:** Logic-based **Password Checker App**.
+*   **Skills:** `printf`, `scanf`, `Loops`, `Functions`.
+*   **Project:** [Password Checker App](https://github.com)
 
-### 🔄 Level 2: Advanced Data Handling (Current)
-*   **Focus:** Mastering **Arrays** & Memory Structure.
-*   **Topics:** 1D & 2D Arrays, Searching Algorithms, Matrix Operations, and String Manipulation.
-*   **Goal:** Moving towards **Pointers** and **Memory Management**.
+### ✅ Level 2: Data Handling (Completed)
+*   **Skills:** 1D/2D Arrays, Searching Algorithms, Matrix Logic.
+*   **Project:** [Matrix Operations & String Mastery](https://github.com)
+
+### ✅ Level 3: Low-Level & Pointers (Completed)
+*   **Skills:** `write()`, `read()`, `open()`, **Pointers**, Pointer Arithmetic, Double Pointers.
+*   **Project:** [Smart String Reverse Engine](https://github.com)
+
+### 🔄 Level 4: Dynamic Memory (Current)
+*   **Goal:** Mastering `malloc`, `free`, and Linked Lists.
 
 ---
 
 ## 🔥 1337 Journey (Piscine Preparation)
 
-My goal is to complete the core curriculum structure used in the Piscine:
+Following the official 1337/42 curriculum structure:
 
 #### 💻 C Modules
-*   **C00** ✅ (Basics, write, loops, functions)
-*   **C01** 🔄 (Pointers & Memory - *Next Step*)
-*   **C02** 🔄 (Strings & Arrays - *In Progress*)
-*   **C03 → C09** ⏳ (Advanced Logic)
-
-#### 🐚 Shell Modules
-*   **shell_00** ⏳
-*   **shell_01** ⏳
+*   **C00 (Basics)** ✅
+*   **C01 (Pointers)** ✅
+*   **C02 (Strings & Arrays)** ✅
+*   **C03 → C09 (Advanced Logic)** 🔄 *In Progress*
 
 ---
 
 ## 🛠️ Skills & Tools
 
-*   **Languages:** C (Primary), Python
-*   **Tools:** Git, GitHub, VS Code, Git Bash (CLI Expert)
-*   **Systems:** Linux Environment (Basics)
+*   **Languages:** C (Low-Level Expert), Python
+*   **Tools:** Git, GitHub, VS Code, Git Bash (CLI Mastery)
+*   **Standards:** 1337/42 Norminette Style
 
 ---
 
 ## 📂 Featured Repositories
 
-*   [**c-learning (Level 1)**](https://github.com) → Fundamentals from 0 to 1.
-*   [**C-Mastery-Level-2**](https://github.com) → Arrays, Matrices, and Advanced Logic.
+*   [**C-Mastery-Level-3**](https://github.com) → Pointers & System Calls.
+*   [**C-Mastery-Level-2**](https://github.com) → Data Structures & Arrays.
 
 ---
-
-## 📈 Consistency is Key
-I document every exercise I solve. Following the "Learn, Build, Document" methodology.
 
 ## 📫 Connect with me
 *   📧 [younesadnane1337@gmail.com](mailto:younesadnane1337@gmail.com)
 *   🔗 [LinkedIn](https://linkedin.com)
 
 ---
-⭐ *Thanks for visiting! Follow my journey to 1337 🚀* 
+⭐ *Consistency is Key. Documenting my way to 1337 🚀*
