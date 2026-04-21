@@ -62,6 +62,5 @@ Following the official 1337/42 curriculum structure:
 ## 📫 Connect with me
 *   📧 [younesadnane1337@gmail.com](mailto:younesadnane1337@gmail.com)
 *   🔗 [LinkedIn](https://linkedin.com)
-
 ---
 ⭐ *Consistency is Key. Documenting my way to 1337 🚀*
