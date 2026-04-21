@@ -1,7 +1,6 @@
-#👋 I'm YOUNES ADNANE 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUNES-ADNANE.YOUNES-ADNANE) 
-![Learning](https://img.shields.io/badge/Learning-C-blue) 
-![Goal](https://img.shields.io/badge/1337-Future%20Student-success)
+# Hi there 👋 I'm YOUNES ADNANE
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUNES-ADNANE.YOUNES-ADNANE) ![Learning](https://img.shields.io/badge/Learning-C-blue) ![Goal](https://img.shields.io/badge/1337-Future%20Student-success)
 
 ---
 
@@ -21,9 +20,9 @@ I'm an aspiring software developer from Morocco 🇲🇦, born in 2009. Currentl
 
 ### 📁 Legacy Archives (Previous Levels)
 *These repos document my earlier journey with standard C libraries.*
-* [**C-Mastery-Level-3**](https://github.com) - System calls & Pointers.
-* [**C-Mastery-Level-2**](https://github.com) - Data Structures & Matrix Logic.
-* [**c-learning**](https://github) - C Fundamentals.
+* [C-Mastery-Level-3](https://github.com/YOUNES-ADNANE/C-Mastery-Level-3)
+* [C-Mastery-Level-2](https://github.com/YOUNES-ADNANE/C-Mastery-Level-2)
+* [c-learning](https://github.com/YOUNES-ADNANE/c-learning)
 
 ---
 
