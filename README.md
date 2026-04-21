@@ -1,5 +1,4 @@
 # Hi there 👋 I'm YOUNES ADNANE
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUNES-ADNANE.YOUNES-ADNANE)
 ![Learning](https://img.shields.io/badge/Learning-C-blue)
 ![Goal](https://img.shields.io/badge/1337-Future%20Student-success)
@@ -7,61 +6,51 @@
 ---
 
 ## 🚀 About Me
+I'm an aspiring software developer from Morocco 🇲🇦, born in 2009. I'm currently a dedicated student mastering **Low-Level Programming** with a clear goal: Joining **1337 Coding School (42 Network)**.
 
-I'm an aspiring software developer from Morocco 🇲🇦, born in 2009.
-I'm currently a dedicated student mastering **Low-Level Programming** with a clear goal: Joining **1337 Coding School (42 Network)**.
-
----
-
-## 🎯 My Progress & Roadmap
-
-### ✅ Level 1: Foundations (Completed)
-*   **Skills:** `printf`, `scanf`, `Loops`, `Functions`.
-*   **Project:** [Password Checker App](https://github.com)
-
-### ✅ Level 2: Data Handling (Completed)
-*   **Skills:** 1D/2D Arrays, Searching Algorithms, Matrix Logic.
-*   **Project:** [Matrix Operations & String Mastery](https://github.com)
-
-### ✅ Level 3: Low-Level & Pointers (Completed)
-*   **Skills:** `write()`, `read()`, `open()`, **Pointers**, Pointer Arithmetic, Double Pointers.
-*   **Project:** [Smart String Reverse Engine](https://github.com)
-
-### 🔄 Level 4: Dynamic Memory (Current)
-*   **Goal:** Mastering `malloc`, `free`, and Linked Lists.
+**Current Focus:** Mastering C without high-level libraries (No `printf`, pure `write/read` logic).
 
 ---
 
-## 🔥 1337 Journey (Piscine Preparation)
+## 🎯 My Progress & Roadmap (C-Mastery Reboot)
 
-Following the official 1337/42 curriculum structure:
+### 🔄 Level 1: System Calls & Basic Logic (Current)
+* **Status:** Mastering the fundamentals of Unix-like programming.
+* **Skills:** `write()`, `read()`, Manual ASCII conversion, `if/else`, `Recursion`.
+* **Tools:** Vim, Git Bash, GCC.
 
-#### 💻 C Modules
-*   **C00 (Basics)** ✅
-*   **C01 (Pointers)** ✅
-*   **C02 (Strings & Arrays)** ✅
-*   **C03 → C09 (Advanced Logic)** 🔄 *In Progress*
+### ⏳ Level 2: Arrays & String Manipulation
+* **Goal:** Handling memory buffers and strings manually.
+
+---
+
+## 🔥 1337 Journey (Reboot Edition)
+Following the official 1337/42 curriculum standards:
+
+#### 💻 C-Mastery-Reboot Repository
+* **Ex00: Hello 1337** ✅ (Using `write`)
+* **Ex01: My Age** ✅ (Manual Int to ASCII)
+* **Ex02: Smart Age** ✅ (If/Else & Input)
+* **Ex03: Calculator** ✅ (Advanced Recursion)
+* **Ex04/05: Input Logic** ✅ (Mastering `read`)
+* **Ex06: Case Converter** 🔄 *In Progress*
 
 ---
 
 ## 🛠️ Skills & Tools
-
-*   **Languages:** C (Low-Level Expert), Python
-*   **Tools:** Git, GitHub, VS Code, Git Bash (CLI Mastery)
-*   **Standards:** 1337/42 Norminette Style
+* **Languages:** C (System Level Focus)
+* **Environment:** **Vim Master**, Terminal/CLI, Linux Mint (Upcoming).
+* **Standards:** 1337/42 Norminette Style.
 
 ---
 
-## 📂 Featured Repositories
-
-*   [**C-Mastery-Level-3**](https://github.com) → Pointers & System Calls.
-*   [**C-Mastery-Level-2**](https://github.com) → Data Structures & Arrays.
+## 📂 Featured Repository
+* [**C-Mastery-Reboot**](https://github.com) → My main path to 1337.
 
 ---
 
 ## 📫 Connect with me
-*   📧 [younesadnane1337@gmail.com](mailto:younesadnane1337@gmail.com)
-*   🔗 [LinkedIn](https://linkedin.com)
+* 📧 [younesadnane1337@gmail.com](mailto:younesadnane1337@gmail.com)
 
 ---
 ⭐ *Consistency is Key. Documenting my way to 1337 🚀*
